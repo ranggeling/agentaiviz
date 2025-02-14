@@ -1,0 +1,13 @@
+streamlit as st
+pandas as pd
+matplotlib.pyplot as plt
+seaborn as sns
+nltk
+spacy
+PyPDF2
+from collections import Counter
+from wordcloud import WordCloud
+from textblob import TextBlob
+io
+ollama  # Import Ollama for AI summarization
+numpy as np
